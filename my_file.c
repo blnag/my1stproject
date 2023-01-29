@@ -27,4 +27,5 @@ void main()
    printf("Sub of %d-%d=%d\n", a, b, sub(a,b));
    printf("Multiplication of %dx%d=%d\n", a, b, mul(a, b));
    printf("DIV of %d/%d=%d", a, b, div(a,b));
+   printf("Hi Bonthu\n");
 }
